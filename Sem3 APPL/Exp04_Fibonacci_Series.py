@@ -22,7 +22,7 @@ def Memoization_Fibonacci(n ,memo=None)-> int:
         ans = Memoization_Fibonacci(n-1,memo) + Memoization_Fibonacci(n-2,memo)
         memo[n] = ans
         return memo[n]
-    
+
 if __name__ == "__main__":
     while True:
         print("--- Menu ---")
