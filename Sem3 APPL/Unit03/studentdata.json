@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Vishal",
+        "roll no.": "61",
+        "Branch": "CSE",
+        "Marks": "85"
+    },
+    {
+        "name": "sangmeshwar",
+        "roll no.": "47",
+        "Branch": "IT",
+        "Marks": "99"
+    },
+    {
+        "name": "Shantanu",
+        "roll no.": "48",
+        "Branch": "CE",
+        "Marks": "88"
+    },
+    {
+        "name": "Darsh",
+        "roll no.": "67",
+        "Branch": "AI",
+        "Marks": "96"
+    }
+]
